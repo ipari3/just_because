@@ -5,3 +5,5 @@ identify: 식별하다
 identifier: 식별자
 run: 실행; 시작
 execution: 실행, 수행; 메모리 점유
+declaration: 선언
+definition: 정의
